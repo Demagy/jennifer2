@@ -1,0 +1,42 @@
+body{
+  background: url("img/v.jpg") no-repeat;
+  background-size:cover;
+}
+
+h1{
+  color: red;
+  margin: 5% auto;
+  text-align: center;
+  font-size: 3rem;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 4rem;
+  font-size: 1.2rem;
+  color: white;
+
+}
+
+.img {
+  /* margin-left: 16rem; */
+}
+.img1 {
+  /* border-radius: 40%; */
+  width: 40%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+/* .footer {
+  position: relative;
+  top: 1100px;
+  /* right: 30%; */
+  /* font-size: 1.2rem; */
+/* } */
+
+/* .footer p {
+  text-align: center;
+}  */
